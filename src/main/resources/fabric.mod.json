@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "nothing",
+  "version": "${version}",
+  "name": "Nothing",
+  "description": "This mod adds nothing",
+  "authors": ["trainb0y"],
+  "license": "MIT",
+  "icon": "assets/nothing/icon.png",
+  "environment": "*",
+  "entrypoints": {},
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "*"
+  }
+}
